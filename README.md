@@ -23,4 +23,5 @@ Special thanks:
 https://github.com/vaxry for making Hyprland
 https://github.com/end-4 for his dotfiles and packages
 https://github.com/mylinuxforwork for the wallpapers
-and more...
+
+and more people...
