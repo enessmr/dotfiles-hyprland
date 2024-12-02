@@ -2,7 +2,7 @@ the installer is not ready yet
 
 Warn: The dotfiles is not ready yet and my config is really big. (Cause i have other stuff)
 
-#Will use: (may change)
+# Will use: (may change)
 
 ags as the top bar (end-4 dotfiles setup)
 swww for wallpaper daemon
